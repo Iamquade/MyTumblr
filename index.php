@@ -1,6 +1,6 @@
 <?php 
 session_start();
-$acc_username = "Christopher";
+$acc_username = "Iamquade";
 $acc_password = "chris123";
 $acc_fullname = "Christopher Peralta";
 $acc_address  = "Marinduque, PH";
